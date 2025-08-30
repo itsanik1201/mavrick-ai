@@ -16,29 +16,14 @@ A sleek, self-hosted AI assistant for chatting with models and analyzing documen
 | Feature | Description |
 | :--- | :--- |
 | **🤖 Multi-Model Chat** | Converse with various AI models using a clean interface. |
-| **📄 Document Intelligence** | Upload PDFs or text files and ask questions about their content. |
 | **🔒 Privacy First** | Your data stays on your machine when using local models. |
-| **🐳 One-Click Setup** | Get up and running instantly using Docker. |
-
----
-
-## 🛠️ Local Installation
-
-Prefer to host it yourself? Follow these simple steps:
-
-### Prerequisites
-- Ensure you have **Docker** and **Docker Compose** installed.
-
 
 
 ## 🏗️ Tech Stack
 
 - **Backend:** Python + FastAPI
 - **Frontend:** Streamlit
-- **AI:** Ollama / OpenAI API
-- **Deployment:** Docker
-
----
+- **AI:** google gemini API
 
 ## 📬 Contact
 
