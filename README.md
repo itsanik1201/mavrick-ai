@@ -1,12 +1,48 @@
-# React + Vite
+# 🤠 Maverick AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, self-hosted AI assistant for chatting with models and analyzing documents—all from your browser.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+**Experience Maverick AI instantly without any installation:**
+> ### 👉 [Try the Live Demo Here](https://mavrick-ai.vercel.app/) 👈
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| **🤖 Multi-Model Chat** | Converse with various AI models using a clean interface. |
+| **📄 Document Intelligence** | Upload PDFs or text files and ask questions about their content. |
+| **🔒 Privacy First** | Your data stays on your machine when using local models. |
+| **🐳 One-Click Setup** | Get up and running instantly using Docker. |
+
+---
+
+## 🛠️ Local Installation
+
+Prefer to host it yourself? Follow these simple steps:
+
+### Prerequisites
+- Ensure you have **Docker** and **Docker Compose** installed.
+
+
+
+## 🏗️ Tech Stack
+
+- **Backend:** Python + FastAPI
+- **Frontend:** Streamlit
+- **AI:** Ollama / OpenAI API
+- **Deployment:** Docker
+
+---
+
+## 📬 Contact
+
+Created by [Anik](https://github.com/itsanik1201). Feel free to reach out for questions or contributions.
+
+---
+***Disclaimer:*** *This is an independent project and is not affiliated with any company.*
