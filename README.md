@@ -21,7 +21,7 @@ A sleek, self-hosted AI assistant for chatting with models and analyzing documen
 
 ## 🏗️ Tech Stack
 
-- **Backend:** Python + FastAPI
+- **Backend:** react +javascript+ gemini API
 - **Frontend:** Streamlit
 - **AI:** google gemini API
 
