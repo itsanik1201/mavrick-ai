@@ -15,14 +15,14 @@ A sleek, self-hosted AI assistant for chatting with models and analyzing documen
 
 | Feature | Description |
 | :--- | :--- |
-| **🤖 Multi-Model Chat** | Converse with various AI models using a clean interface. |
+| **🤖 Chat** | Converse with  AI  using a clean interface. |
 | **🔒 Privacy First** | Your data stays on your machine when using local models. |
 
 
 ## 🏗️ Tech Stack
 
-- **Backend:** react +javascript+ gemini API
-- **Frontend:** Streamlit
+- **Backend:** javascript+ gemini API
+- **Frontend:** react 
 - **AI:** google gemini API
 
 ## 📬 Contact
