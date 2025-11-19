@@ -2,7 +2,7 @@
 import { GoogleGenAI } from "@google/genai";
 
 export default async function solveDoubt(data){
-        const ai = new GoogleGenAI({ apiKey:'AIzaSyCmvNtMTU5XT07zzt8RSBdA1-r6zP6dpB4'});
+        const ai = new GoogleGenAI({ apiKey:'AIzaSyBEkFTbZdlnJlutdawuRiyIyS0W_HSdIfw'});
        
         async function main() {
             
